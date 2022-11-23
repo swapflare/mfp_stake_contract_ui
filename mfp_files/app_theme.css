@@ -1,0 +1,43 @@
+.btn,.card,.form-control,.card-header{
+	border-radius:25px !important;
+}
+.card.border-left{
+	border-radius: 0px !important;
+}
+.btn-primary,.alert-primary,.bg-primary,.badge-primary,.nav-link.active,.page-item.active .page-link{
+		   color:#fff !important;
+		   background-color:#f023b2 !important;
+}
+.btn-outline-primary,.text-primary,.link-primary{
+	color:#f023b2 !important;
+}
+.active{
+	color:#f023b2 !important;
+}
+
+a.btn:active,a.btn:visited,a.btn:link,a.btn:focus,a.btn:hover{
+	color:#fff !important;
+	border-color: #f023b2 !important;
+}
+a:active,a:visited,a:link,a:focus,a:hover,.form-control:focus,.btn:hover,a.btn-outline-primary:link,a.btn-outline-primary:visited{
+	color:#f023b2 !important;
+	border-color: #f023b2 !important;
+}
+a.btn-outline-primary:hover{
+	color: #fff !important;
+	background-color: #f023b2 !important;
+}
+a{
+	color:#f023b2 !important;
+}
+.topnav-navbar-dark{
+	background-color:#ad1457 !important;
+	border-width: 0px !important;
+}
+.left-side-menui{
+	border-color: #ad1457 !important;
+	border-width:15px !important;
+}
+.form-control,.btn-outline-primary{
+	border-color:#f023b2 !important;
+}

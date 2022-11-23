@@ -1,0 +1,5 @@
+    const nftAddress='0xd38F34B2879736Ddd474d9298babd85Db2B6656d';
+    const tokenAddress='0x1fa1a723494710Cac6f2642DdAcCb13AB9D940D3';
+    const stakerAddress='0xE95200E6819893b9eb1e513a803EdFE9FdDfc4b1';
+    //const userAddress='0x2e05453eE30cB0f66dB7d328DfccB4f00506aF07';
+    const adminAddress='0x109B63b6407A68B1A2bF33F2b472886F2d3A0aF3';

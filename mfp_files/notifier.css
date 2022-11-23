@@ -1,0 +1,58 @@
+.notifier_top_left{
+	position:fixed;
+	left:1%;
+	top:1%;
+	z-index:1000;
+	}
+.notifier_top_middle{
+	position:fixed;
+	left:50%;
+	top:1%;
+	transform: translateX(-50%);
+	z-index:1000;
+	}
+.notifier_top_right{
+	position:fixed;
+	right:1%;
+	top:1%;
+	z-index:1000;
+	}
+.notifier_middle_right{
+	position:fixed;
+	left:1%;
+	top:50%;
+	transform: translateY(-50%);
+	z-index:1000;
+	}
+.notifier_bottom_left{
+	position:fixed;
+	left:1%;
+	bottom:1%;
+	}
+.notifier_bottom_middle{
+	position:fixed;
+	left:50%;
+	bottom:1%;
+	transform: translateX(-50%);
+	z-index:1000;
+	}
+.notifier_bottom_left{
+	position:fixed;
+	left:1%;
+	bottom:1%;
+	z-index:1000;
+	}
+.notifier_middle_left{
+	position:fixed;
+	left:1%;
+	top:50%;
+	transform: translateY(-50%);
+	z-index:1000;
+	}
+.notifier_middle_middle{
+	position:fixed;
+	left:50%;
+	top:50%;
+	transform: translate(-50%,-50%);
+	z-index:1000;
+}
